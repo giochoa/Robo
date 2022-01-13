@@ -1,0 +1,10 @@
+/* black-ops-one-regular - latin */
+@font-face {
+    font-family: 'Black Ops One';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Black Ops One'), url('black-ops-one-v12-latin-regular.woff2') format('woff')}
+  h1 {
+      font-family: 'Black Ops One';
+      color: crimson;
+  }
