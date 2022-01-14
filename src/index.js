@@ -8,7 +8,7 @@ import 'tachyons';
 ReactDOM.render(
   <React.StrictMode>
     <div>
-      <h1>シェイダ</h1>
+      <h1 className='tc f1'>シェイダエンドフレンドス</h1>
       <App/>
     </div>
   </React.StrictMode>, 

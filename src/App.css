@@ -6,6 +6,5 @@
     src: local('Black Ops One'), url('black-ops-one-v12-latin-regular.woff2') format('woff')}
   h1 {
       font-family: 'Black Ops One';
-      color: crimson;
-      font-size: xx-large;
+      font-weight: 400;
   }
